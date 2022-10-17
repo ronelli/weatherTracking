@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+h1,
+h2,
+.card {
+    text-align: center;
+    margin:0 auto !important;
+}
+
+.trash-btn {
+    display: inline;
+    float: right ;
+    cursor: pointer;
+}
+
+.container {
+    text-align: center;
+    margin: 30px auto;
+}
+
+main {
+    height: 80%;
+}
+header, footer {
+    height: 10%;
+    text-align: center;
+}
